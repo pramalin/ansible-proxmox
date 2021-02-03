@@ -1,0 +1,4 @@
+[containers]
+host1 vmid=10005 memory=512  disk=8   cpus=1 mac=aa:aa:aa:f1:00:05
+host2 vmid=10010 memory=2048 disk=64  cpus=2 mac=aa:aa:aa:f1:00:10
+host3 vmid=10011 memory=2048 disk=128 cpus=2 mac=aa:aa:aa:f1:00:11
