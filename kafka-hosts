@@ -1,0 +1,14 @@
+[containers]
+zk1        vmid=1001 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:01
+zk2        vmid=1002 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:02
+zk3        vmid=1003 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:03
+broker1    vmid=1004 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:04
+broker2    vmid=1005 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:05
+broker3    vmid=1006 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:06
+sr1        vmid=1007 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:07
+sr2        vmid=1008 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:08
+connect1   vmid=1009 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:09
+connect2   vmid=1010 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:10
+ksql       vmid=1011 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:11
+cc1        vmid=1012 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:12
+cc2        vmid=1013 memory=2048 disk=64 cpus=1 mac=aa:aa:aa:f1:00:13
